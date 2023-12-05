@@ -1,0 +1,2 @@
+# COCIDO
+.gitinit
